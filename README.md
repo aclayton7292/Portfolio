@@ -20,23 +20,23 @@ This was a senior capstone project taking advantage of a Raspberry Pi as well as
 
 ## **Project Requirements**
 ---
--[x] RestApi Backend for user modules
+- [x] RestApi Backend for user modules
 
--[x] RestApi Backend for routing modules
+- [x] RestApi Backend for routing modules
 
--[x] Multi-Threaded Functionality for the raspberry pi
+- [x] Multi-Threaded Functionality for the raspberry pi
 
--[x] Simple user experience
+- [x] Simple user experience
 
--[x] User controlled toggle for tracking services
+- [x] User controlled toggle for tracking services
 
--[x] Connecting to back-end api from the raspberry pi
+- [x] Connecting to back-end api from the raspberry pi
 
--[x] Visable Display for speed on the raspberry pi
+- [x] Visable Display for speed on the raspberry pi
 
--[x] Raspberry Pi runs self contained(I.e on battery power)
+- [x] Raspberry Pi runs self contained(I.e on battery power)
 
--[x] Previously taken routes can be viewed on a google map
+- [x] Previously taken routes can be viewed on a google map
 
 ## **Design Decisions**
 ---
